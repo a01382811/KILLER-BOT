@@ -1,0 +1,16 @@
+{
+  "name": "killer-bot",
+  "version": "3.0.0",
+  "description": "KILLER-BOT - WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "KILLER",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
